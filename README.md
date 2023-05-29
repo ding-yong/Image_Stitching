@@ -1,0 +1,2 @@
+# Image_Stitching
+使用opencv对7路相机拍摄的4k图像进行全景拼接
